@@ -25,7 +25,11 @@ O site escolhido foi o da **Ferrari**, uma marca icônica no mundo automotivo.
 Antes do desenvolvimento em código, foi criado um **protótipo no Figma** com base no print da página inicial do site da Ferrari, servindo como guia visual para o projeto. 
 Este foi o protótipo:
 
-<img width="572" height="425" alt="image" src="https://github.com/user-attachments/assets/8b1e78f1-b920-4d57-b6ef-37ca8c72f3b5" />
+<img width="566" height="432" alt="image" src="https://github.com/user-attachments/assets/932eed54-27fa-43e6-adb6-47d004b3388f" />
+<img width="944" height="430" alt="image" src="https://github.com/user-attachments/assets/6112946e-0e36-4bcf-be6f-c7a33129bcc6" />
+<img width="935" height="416" alt="image" src="https://github.com/user-attachments/assets/a0eabf22-3443-4cd7-8952-336fef41b231" />
+
+
 
 
 ---
@@ -33,6 +37,5 @@ Este foi o protótipo:
 ## 💻 Resultado
 A página foi construída com **HTML e CSS**, buscando manter **fidelidade ao design original da Ferrari** e explorando boas práticas de desenvolvimento front-end.  
 
-<img width="944" height="427" alt="image" src="https://github.com/user-attachments/assets/4930e7d0-c414-4776-89f7-c8846768fa9c" />
-<img width="936" height="416" alt="image" src="https://github.com/user-attachments/assets/a8c99cb9-8145-4bc8-868f-e23e341ae2e1" />
-<img width="938" height="419" alt="image" src="https://github.com/user-attachments/assets/8ac77515-ef4f-48aa-83a2-9a41056b38d3" />
+<img width="943" height="431" alt="image" src="https://github.com/user-attachments/assets/0b2f68cc-6838-48b9-9151-280cc7304453" />
+
